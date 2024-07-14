@@ -10,3 +10,17 @@ background-image: url(https://w0.peakpx.com/wallpaper/334/304/HD-wallpaper-plain
     background-image: url(https://w0.peakpx.com/wallpaper/334/304/HD-wallpaper-plain-sage-green-sage-green.jpg);
 
 }
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header{
+    background-color: rgb(224, 211, 197);
+    padding: 20px;
+    margin-top: 10px;
+
+    
+}
